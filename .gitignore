@@ -1,2 +1,5 @@
 /node_modules
 /dist
+/src/private.key
+/src/public.key
+/src/.env
